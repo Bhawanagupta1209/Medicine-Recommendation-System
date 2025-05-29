@@ -1,1 +1,1 @@
-A machine learning-based system for disease prediction and corresponding medication recommendations from symptom inputs.
+This model leverages machine learning to analyze user-reported symptoms, predict the most likely diseases, and recommend suitable medications or treatment options. It aims to support early diagnosis and assist users or healthcare providers in making informed clinical decisions.
